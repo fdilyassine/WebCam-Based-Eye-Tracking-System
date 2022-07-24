@@ -6,7 +6,7 @@
 
 This is a Python library that provides a **webcam-based eye tracking system**. It gives you the exact position of the pupils and the looking direction, in real time.
 
-[![Demo](gif/Pupil_Tracking_Demo.gif)]
+[![Demo](media/Pupil_Tracking_Demo.gif)]
 
 
 ## Installation
@@ -23,21 +23,27 @@ You should first install visual studio (Desktop Developement With C++)
 
 ```shell
 cd Eye_Tracking 
+
+
+```
+```shell
 pip install Cmake
-pip install dlib
 ```
 
-
-
+```shell
+pip install dlib
+```
 ### For Anaconda install
 
 
 ```shell
 conda env create --file environment.yml
-#After creating environment, activate it
-conda activate GazeTracking
-```
 
+```
+After creating environment, activate it
+```shell
+conda activate EyeTracking
+```
 
 ### Verify Installation
 
@@ -49,4 +55,4 @@ python app.py
 
 ## Licensing
 
-This project is released by Fdil Yassine under the terms of the MIT Open Source License. View LICENSE for more information.
+This project is released by [Fdil Yassine](https://www.linkedin.com/in/fdil-yassine) under the terms of the MIT Open Source License. View LICENSE for more information.
