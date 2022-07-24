@@ -23,21 +23,27 @@ You should first install visual studio (Desktop Developement With C++)
 
 ```shell
 cd Eye_Tracking 
+
+
+```
+```shell
 pip install Cmake
-pip install dlib
 ```
 
-
-
+```shell
+pip install dlib
+```
 ### For Anaconda install
 
 
 ```shell
 conda env create --file environment.yml
-#After creating environment, activate it
+
+```
+<After creating environment, activate it>
+```shell
 conda activate GazeTracking
 ```
-
 
 ### Verify Installation
 
