@@ -42,7 +42,7 @@ conda env create --file environment.yml
 ```
 <After creating environment, activate it>
 ```shell
-conda activate GazeTracking
+conda activate EyeTracking
 ```
 
 ### Verify Installation
