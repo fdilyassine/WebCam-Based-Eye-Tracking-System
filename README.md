@@ -18,7 +18,7 @@ git clone https://github.com/fdilyassine/WebCam-Based-Eye-Tracking-System.git
 ```
 You should first install visual studio (Desktop Developement With C++)
 
-### For Pip install
+### Run the following commands in your terminal
 
 
 
@@ -26,24 +26,23 @@ You should first install visual studio (Desktop Developement With C++)
 pip install Cmake
 ```
 
-```shell
-pip install dlib
-```
-### For Anaconda install
-
 
 ```shell
 conda env create --file environment.yml
 
 ```
 After creating environment, activate it
+
 ```shell
 conda activate EyeTracking
 ```
+```shell
+pip install dlib
+```
 
-### Verify Installation
 
-Run the demo:
+
+Run the app:
 
 ```shell
 python app.py
