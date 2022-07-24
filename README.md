@@ -40,7 +40,7 @@ pip install dlib
 conda env create --file environment.yml
 
 ```
-<After creating environment, activate it>
+After creating environment, activate it
 ```shell
 conda activate EyeTracking
 ```
@@ -55,4 +55,4 @@ python app.py
 
 ## Licensing
 
-This project is released by Fdil Yassine under the terms of the MIT Open Source License. View LICENSE for more information.
+This project is released by [Fdil Yassine](https://www.linkedin.com/in/fdil-yassine) under the terms of the MIT Open Source License. View LICENSE for more information.
