@@ -1,7 +1,7 @@
 
 
 
-![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![made-with-python]
 # Eye-Tracking-With-OpenCV
 
 This is a Python library that provides a **webcam-based eye tracking system**. It gives you the exact position of the pupils and the looking direction, in real time.
