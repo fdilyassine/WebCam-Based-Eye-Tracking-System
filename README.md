@@ -21,11 +21,7 @@ You should first install visual studio (Desktop Developement With C++)
 ### For Pip install
 
 
-```shell
-cd Eye_Tracking 
 
-
-```
 ```shell
 pip install Cmake
 ```
